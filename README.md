@@ -1,7 +1,7 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=lucasfmonsores&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web Full Stack** em <a href="https://www.digitalhouse.com/">DIGITAL HOUSE/FUNDACION FORMAR</a>.
